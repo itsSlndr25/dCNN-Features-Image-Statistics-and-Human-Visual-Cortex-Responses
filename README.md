@@ -61,8 +61,8 @@ correlation_project/
 │   └── figures/                       # Generated visualizations
 │
 └── docs/
-    ├── presentation_slides.pdf        # Lab meeting slides
-    └── pipeline_flowchart.png         # Project summary
+    ├── Project 1. NSD&MRI&ImageStatistics - summary.pdf  #  Project summary
+    └── Project 1. NSD&MRI&影像統計量.pdf                  #  Project summary *chinese version
 ```
 
 ---
