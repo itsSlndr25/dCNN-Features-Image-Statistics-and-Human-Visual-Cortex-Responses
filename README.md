@@ -61,8 +61,8 @@ correlation_project/
 │   └── figures/                       # Generated visualizations
 │
 └── docs/
-    ├── presentation_slides.pdf        # Lab meeting slides
-    └── pipeline_flowchart.png         # Project summary
+    ├── summary.pdf                 # Project summary
+    └── summary_chinese.pdf         # Project summary *chinese version
 ```
 
 ---
